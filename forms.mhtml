@@ -1,0 +1,105 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index3.html
+Subject: forms
+Date: Wed, 25 Sep 2024 09:52:21 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--shDzqU67JxlrPt0NouwqQwnbx1cxy4hkWU4CcbpvbQ----"
+
+
+------MultipartBoundary--shDzqU67JxlrPt0NouwqQwnbx1cxy4hkWU4CcbpvbQ----
+Content-Type: text/html
+Content-ID: <frame-755004326D9D9FD90FBB2B6B14374C0E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index3.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-92668cba-ed3c-4076-af84-b19fba36ee6d@mhtml.blink" />
+        <title>forms</title>
+    <!-- Code injected by Five-server -->
+ =20
+  </head>
+<body>
+        <form>
+            <center><b>...FORM...</b></center>
+            <br>
+            <b>Name:</b><input type=3D"text">
+            <br><br>
+            <b>Number:</b><input type=3D"number">
+            <br><br>
+            <b>Email:</b><input type=3D"email">
+            <br><br>
+            <b>Address:</b><input type=3D"text">
+            <br><br>
+            <b>Password:</b><input type=3D"password">
+            <br><br>
+            <button><b>SUBMIT</b></button>
+            <br><br>
+            <b>COUNTRY</b>
+       =20
+             AUSTRALIA
+             BRAZIL
+             CHINA
+             DENMARK
+             EGYPT
+             <select>
+               =20
+               =20
+               =20
+                Gender:</select><input type=3D"radio" name=3D"female" value=
+=3D"female"> female
+                <input type=3D"radio" name=3D"male" value=3D"male"> male
+                <input type=3D"radio" name=3D"other" value=3D"other"> other
+                 <br><br>
+                 <b>PREFERRED ROLES:</b>
+                 <br><br>
+                 <input type=3D"Checkbox">python fullstack developer
+                 <br>
+                 <input type=3D"Checkbox">java fullstack developer
+                 <br>
+                 <input type=3D"Checkbox">frontend developer
+                 <br><br>
+                 <b>photo:</b><input type=3D"file">
+                 <br><br>
+                 <button><b>Submit</b></button>
+                 <button type=3D"reset"><b>Reset</b>/button&gt;
+                    <br>
+
+                =20
+           =20
+        =20
+                    </button></form></body></html>
+------MultipartBoundary--shDzqU67JxlrPt0NouwqQwnbx1cxy4hkWU4CcbpvbQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-92668cba-ed3c-4076-af84-b19fba36ee6d@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes fadeOutHighlight {=20
+  0% { background-color: rgba(155, 215, 255, 0.5); }
+  100% { background-color: rgba(155, 215, 255, 0); }
+}
+
+@keyframes fadeOutHighlightIMG {=20
+  0% { filter: sepia(100%) hue-rotate(180deg) saturate(200%); }
+  33% { filter: sepia(66%) hue-rotate(180deg) saturate(100%); }
+  50% { filter: sepia(50%) hue-rotate(90deg) saturate(50%); }
+  66% { filter: sepia(33%) hue-rotate(0deg) saturate(100%); }
+  100% { filter: sepia(0%) hue-rotate(0deg) saturate(100%); }
+}
+
+@keyframes fiveserverInfoPopup {=20
+  0% { top: -40px; }
+  15% { top: 4px; }
+  85% { top: 4px; }
+  100% { top: -40px; }
+}
+
+@media (max-width: 640px) {
+  #fiveserver-info-wrapper { max-width: 98%; }
+  #fiveserver-info { border-radius: 0px; }
+}
+------MultipartBoundary--shDzqU67JxlrPt0NouwqQwnbx1cxy4hkWU4CcbpvbQ------
